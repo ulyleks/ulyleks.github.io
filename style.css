@@ -1,0 +1,32 @@
+/* body {
+    background-color: lightgoldenrodyellow;
+} */
+.block {
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    width: 800px;
+    height: 100vh;
+    background: url(../images/fit\ \(5\).jpg) no-repeat center;
+    background-attachment: fixed;
+}
+.block1 {
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    width: 800px;
+    height: 0px;
+    background: black;
+}
+.block2 {
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    width: 800px;
+    height: 100vh;
+    background: url(../images/fit\ \(5\).1.jpg) no-repeat center;
+    background-attachment: fixed;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: red;
+    margin-bottom: 100px;
+}
